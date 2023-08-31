@@ -1,0 +1,6 @@
+on_entering_system_fleet = {
+	random_events = {
+		99 = akx.9000
+		1 = 0
+	}
+}

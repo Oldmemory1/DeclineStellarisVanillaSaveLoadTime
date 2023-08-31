@@ -1,0 +1,18 @@
+# this = country
+on_yearly_pulse_country = {
+	events = {
+		LSC100_paragon.300
+		}
+}
+
+# this = country
+on_five_year_pulse_country = {
+	events = {
+		LSC100_paragon.200
+	}
+	
+on_game_start = {
+	events = {
+		LSC100_paragon.400
+	}
+}
