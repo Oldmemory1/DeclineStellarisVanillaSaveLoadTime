@@ -1,0 +1,2 @@
+# DeclineStellarisVanillaSaveLoadTime
+减少了群星saveload多次刷出开局的时间，参考多个mod写成，为了原版玩家有更好的游戏体验
